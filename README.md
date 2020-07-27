@@ -23,28 +23,28 @@ Pueden proveerse en reemplazo o en conjunto con constructores.
 * No se encuentran a simple vista. Por eso, se debería seguir un nombre convencional, además de estar documentado claramente su utilidad.
 
 ### Test
-Estos test verifican cada ejemplo que están presentes en cada uno de ellos.
+Estos test verifican cada ejemplo que están presentes en cada uno de ellos. Están presentes en el paquete com.application.staticFactoryMethods.
 
 #### from
-Ejemplo y verificación en el test com.application.staticFactoryMethods.FromTest
+Ejemplo y verificación en el test FromTest
 
 #### of
-Ejemplo y verificación en el test com.application.staticFactoryMethods.
+Ejemplo y verificación en el test 
 
 #### valueOf
-Ejemplo y verificación en el test com.application.staticFactoryMethods.
+Ejemplo y verificación en el test 
 
 #### instance o getInstance
-Ejemplo y verificación en el test com.application.staticFactoryMethods.
+Ejemplo y verificación en el test 
 
 #### create o newInstance
-Ejemplo y verificación en el test com.application.staticFactoryMethods.
+Ejemplo y verificación en el test 
 
 #### get<type>
-Ejemplo y verificación en el test com.application.staticFactoryMethods.
+Ejemplo y verificación en el test 
     
 #### new<type>
-Ejemplo y verificación en el test com.application.staticFactoryMethods.
+Ejemplo y verificación en el test 
     
 #### <type>
-Ejemplo y verificación en el test com.application.staticFactoryMethods.
+Ejemplo y verificación en el test 
