@@ -18,4 +18,7 @@ Pueden proveerse en reemplazo o en conjunto con constructores.
     > La clase EnumSet retorna un RegularEnumSet si el enum tiene 64 o menos elementos, y en caso contrario un JumboEnumSet. Si en algún momento se desea cambiar de subclase porque ofrece mejor rendimiento, por ej., se podría cambiar sin problemas, siendo todo transparente para los usuarios.
     
     #### Desventajas
-    
+* Si sólo se incluyen estos métodos, sin constructores, la clase no se puede extender. Sin embargo puede ser una ventaja para que se use composición en lugar de herencia.
+
+* No se encuentran a simple vista. Por eso, se debería seguir un nombre convencional, además de estar documentado claramente su utilidad.
+
