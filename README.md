@@ -29,7 +29,7 @@ Estos test verifican cada ejemplo que están presentes en cada uno de ellos. Est
 Ejemplo y verificación en el test FromTest
 
 #### of
-Ejemplo y verificación en el test 
+Ejemplo y verificación en el test OfTest
 
 #### valueOf
 Ejemplo y verificación en el test 
