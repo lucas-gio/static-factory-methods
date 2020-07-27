@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/lucas-gio/static-factory-methods.svg?branch=master)](https://travis-ci.org/lucas-gio/static-factory-methods)
-
+[![codecov](https://codecov.io/gh/lucas-gio/static-factory-methods/branch/master/graph/badge.svg)](https://codecov.io/gh/lucas-gio/static-factory-methods)
+[![CodeFactor](https://www.codefactor.io/repository/github/lucas-gio/static-factory-methods/badge)](https://www.codefactor.io/repository/github/lucas-gio/static-factory-methods)
 
 # Static Factory Methods - Métodos fábrica estáticos.
 Pueden proveerse en reemplazo o en conjunto con constructores.
