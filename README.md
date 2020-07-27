@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/lucas-gio/static-factory-methods.svg?branch=master)](https://travis-ci.org/lucas-gio/static-factory-methods)
+
+
 # Static Factory Methods - Métodos fábrica estáticos.
 Pueden proveerse en reemplazo o en conjunto con constructores.
 
