@@ -40,11 +40,11 @@ Ejemplo y verificación en el test com.application.staticFactoryMethods.
 ### create o newInstance
 Ejemplo y verificación en el test com.application.staticFactoryMethods.
 
-## get<type>
+### get<type>
 Ejemplo y verificación en el test com.application.staticFactoryMethods.
     
-## new<type>
+### new<type>
 Ejemplo y verificación en el test com.application.staticFactoryMethods.
     
-## <type>
+### <type>
 Ejemplo y verificación en el test com.application.staticFactoryMethods.
