@@ -30,16 +30,16 @@ Pueden proveerse en reemplazo o en conjunto con constructores.
 Estos test verifican cada ejemplo que están presentes en cada uno de ellos. Están presentes en el paquete com.application.staticFactoryMethods.
 
 #### from
-Ejemplo y verificación en el test FromTest
+Ejemplo y verificación en el test FromTest.
 
 #### of
-Ejemplo y verificación en el test OfTest
+Ejemplo y verificación en el test OfTest.
 
 #### valueOf
-Ejemplo y verificación en el test 
+Ejemplo y verificación en el test ValueOfTest.
 
 #### instance o getInstance
-Ejemplo y verificación en el test 
+Ejemplo y verificación en el test NewInstanceTest.
 
 #### create o newInstance
 Ejemplo y verificación en el test 
